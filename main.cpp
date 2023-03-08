@@ -1,5 +1,9 @@
 #include <iostream>
 
+int get_double_value(int x){
+  return x*x;
+}
+
 void sqrt(int x){
   return sqrt(x);
 }
